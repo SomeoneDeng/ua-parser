@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "express": "^4.17.2",
+    "node-device-detector": "^1.4.2"
+  }
+}
